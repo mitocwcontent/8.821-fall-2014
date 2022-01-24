@@ -7,9 +7,9 @@ title: 'Lecture 5: Black Hole Thermodynamics'
 uid: 136b518b-25a9-6375-9bdb-9ffa690862e1
 video_files:
   archive_url: https://archive.org/download/MIT8.821F14/MIT8_821F14_lec05_300k.mp4
-  video_captions_file: /courses/8-821-string-theory-and-holographic-duality-fall-2014/0915dfb9f7fa54c491b6f3b980ad5076_hIvrYfwUyZQ.vtt
+  video_captions_file: /courses/8-821-string-theory-and-holographic-duality-fall-2014/9634824fd462594da65620d2c4d5b9b5_hIvrYfwUyZQ.vtt
   video_thumbnail_file: https://img.youtube.com/vi/hIvrYfwUyZQ/default.jpg
-  video_transcript_file: /courses/8-821-string-theory-and-holographic-duality-fall-2014/0d9523eed7c7af4146c6e7769eef16c7_hIvrYfwUyZQ.pdf
+  video_transcript_file: /courses/8-821-string-theory-and-holographic-duality-fall-2014/e1e5b53aff14f644c4a91a233fda0d7e_hIvrYfwUyZQ.pdf
 video_metadata:
   youtube_id: hIvrYfwUyZQ
 ---

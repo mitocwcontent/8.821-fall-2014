@@ -7,9 +7,9 @@ title: 'Lecture 21: Euclidean Correlation Functions: Higher-point Functions'
 uid: 297ba012-80a6-2cc7-8083-cbbb38fae8fb
 video_files:
   archive_url: https://archive.org/download/MIT8.821F14/MIT8_821F14_lec21_300k.mp4
-  video_captions_file: /courses/8-821-string-theory-and-holographic-duality-fall-2014/c0bd397cc37d5cc6a83f0efee369a67d_oXsC9bjMJA4.vtt
+  video_captions_file: /courses/8-821-string-theory-and-holographic-duality-fall-2014/15df690403705adba47c02517db2bc0c_oXsC9bjMJA4.vtt
   video_thumbnail_file: https://img.youtube.com/vi/oXsC9bjMJA4/default.jpg
-  video_transcript_file: /courses/8-821-string-theory-and-holographic-duality-fall-2014/e834cf90ebab2379365c49754421bf5e_oXsC9bjMJA4.pdf
+  video_transcript_file: /courses/8-821-string-theory-and-holographic-duality-fall-2014/6078b0a4de9d2281ea3f9fa781869947_oXsC9bjMJA4.pdf
 video_metadata:
   youtube_id: oXsC9bjMJA4
 ---

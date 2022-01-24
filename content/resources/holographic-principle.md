@@ -7,9 +7,9 @@ title: 'Lecture 6: Holographic Principle'
 uid: c75101d6-41ea-f119-0dad-28973450ba72
 video_files:
   archive_url: https://archive.org/download/MIT8.821F14/MIT8_821F14_lec06_300k.mp4
-  video_captions_file: /courses/8-821-string-theory-and-holographic-duality-fall-2014/307d1e79339158f195e5fb62d1a96497_1pkoBetgo7s.vtt
+  video_captions_file: /courses/8-821-string-theory-and-holographic-duality-fall-2014/53301618e33d5f71a2c5390d558b837b_1pkoBetgo7s.vtt
   video_thumbnail_file: https://img.youtube.com/vi/1pkoBetgo7s/default.jpg
-  video_transcript_file: /courses/8-821-string-theory-and-holographic-duality-fall-2014/286fa63f1af3829d386c8daa2cda5dc4_1pkoBetgo7s.pdf
+  video_transcript_file: /courses/8-821-string-theory-and-holographic-duality-fall-2014/0c759048837139844defc08b37a3198a_1pkoBetgo7s.pdf
 video_metadata:
   youtube_id: 1pkoBetgo7s
 ---

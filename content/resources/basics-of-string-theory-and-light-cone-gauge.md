@@ -7,9 +7,9 @@ title: 'Lecture 10: Basics of String Theory and Light-cone Gauge'
 uid: 0289440a-e714-5f6b-8a80-166394d74b7a
 video_files:
   archive_url: https://archive.org/download/MIT8.821F14/MIT8_821F14_lec10_300k.mp4
-  video_captions_file: /courses/8-821-string-theory-and-holographic-duality-fall-2014/ee2c7d7ac44555d788cc9b582daaa0fa_owhNn20aZo8.vtt
+  video_captions_file: /courses/8-821-string-theory-and-holographic-duality-fall-2014/833d62dd4f3b503a8fe4757ad37fb200_owhNn20aZo8.vtt
   video_thumbnail_file: https://img.youtube.com/vi/owhNn20aZo8/default.jpg
-  video_transcript_file: /courses/8-821-string-theory-and-holographic-duality-fall-2014/aa67ae4f251be3f6d690ba87f4fc239b_owhNn20aZo8.pdf
+  video_transcript_file: /courses/8-821-string-theory-and-holographic-duality-fall-2014/78ae51cd912ce2af18cb144b857e3353_owhNn20aZo8.pdf
 video_metadata:
   youtube_id: owhNn20aZo8
 ---

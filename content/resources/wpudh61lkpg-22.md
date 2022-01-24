@@ -1,0 +1,9 @@
+---
+content_type: resource
+description: ''
+file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/8-821-string-theory-and-holographic-duality-fall-2014/6fa949a060005ebd937d417ba3c4848e_WPuDh61Lkpg.vtt
+file_type: application/x-subrip
+resourcetype: Other
+title: 3play caption file
+uid: 6fa949a0-6000-5ebd-937d-417ba3c4848e
+---
